@@ -1,0 +1,10 @@
+Django
+djangorestframework
+djangorestframework-simplejwt
+djoser
+drf-yasg
+django-cors-headers
+python-decouple
+coverage
+gunicorn
+psycopg[binary]
